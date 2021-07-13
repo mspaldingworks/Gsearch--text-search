@@ -9,7 +9,7 @@ Features included:
 
 Details on running this project:
 * MY code uses import sys, because the text file is stored locally.  I uploaded my original text file to github, but I think it's possible to apply some of this program to other text files that include similar data patterns, as well.
-* You've got to download pandas and regular expressions to run this program. a command line pip-install is the way to go.  ________________________________________ do it this way
+* You've got to download pandas and regular expressions to run this program. a command line pip-install is the way to go. 
 
 
 This is a personal passion project, and an attempt to revisit an auto-ethnographic study of my communication patterns, to improve my approaches to commuicating with collaborators. 
