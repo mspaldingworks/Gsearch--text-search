@@ -6,6 +6,7 @@ Features included:
 1) Regex use to parse email chain numbers, dates, and collaborator emails.
 2) A dictionary of representative data in the form of tuples.
 3) Pandas used to create a database from dicctionary, and for data manipulation.
+4) Analyze text and display information about it (ex: how many words in a paragraph)
 
 Details on running this project:
 * MY code uses import sys, because the text file is stored locally.  I uploaded my original text file to github, but I think it's possible to apply some of this program to other text files that include similar data patterns, as well.
